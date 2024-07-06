@@ -19,7 +19,7 @@
 nav{
     display: flex;
     align-items: center;
-    /* justify-content: spa; */
+    justify-content: space-between;
 }
 nav ul{
     display: flex;
