@@ -18,8 +18,8 @@
 }
 nav{
     display: flex;
-    /* align-items: center; */
-    /* justify-content: space-between; */
+    align-items: center;
+    /* justify-content: spa; */
 }
 nav ul{
     display: flex;
